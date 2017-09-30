@@ -1,9 +1,9 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\NumberWizards.cs">
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\Block Breaker\Assets\Scripts\Ball.cs">
     <Files>
-      <File FileName="Assets\LevelLoader.cs" Line="12" Column="23" />
-      <File FileName="Assets\NumberWizards.cs" Line="36" Column="22" />
+      <File FileName="..\Block Breaker\Assets\Scripts\LevelLoader.cs" Line="18" Column="1" />
+      <File FileName="..\Block Breaker\Assets\Scripts\Ball.cs" Line="17" Column="56" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
